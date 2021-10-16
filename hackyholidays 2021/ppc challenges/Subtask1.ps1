@@ -1,0 +1,1 @@
+for($i=1;$i<1338;$i++){if($i%42 -eq 0){write-output "Life, the universe, and everything"}else{write-output $i}}
