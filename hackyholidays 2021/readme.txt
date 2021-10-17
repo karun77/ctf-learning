@@ -1,4 +1,4 @@
-some of attempts at solving challenges in the hackyholidays 2021 ctf.
+some of my attempts at solving challenges in the hackyholidays 2021 ctf.
 
 good writeups can be found here: https://hackyholidays.io/
 
