@@ -1,0 +1,1 @@
+telnet -f telnetLogFile.txt portal.hackazon.org 17020
