@@ -5,5 +5,6 @@ to the challenge server using telnet (and ran the challenge from there).. and ho
 the time lag would be minimal and i would guess the same random number and then solve 
 the challenge. But that didn't work. 
 
-what i had to do was to find out how the xoroshift128 random number generator was broken.. and
+what i had to do was to find out how the xoroshiro128+ random number generator was broken
+(which is what the random function in the nim language is based on).. and
  use the ideas from there. 
